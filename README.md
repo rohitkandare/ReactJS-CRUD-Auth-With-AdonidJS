@@ -1,7 +1,11 @@
 # ReactJS-CRUD-Auth-With-AdonidJS
 
  ## Setup For AdonisJs(Backend Folder)
-
+ 
+# if AdonisJs already installed in your machine to skip this step
+```bash
+npm i -g @adonisjs/cli
+```
 Use the adonis command to install the blueprint
 
 ```bash
