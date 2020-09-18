@@ -2,7 +2,7 @@
 
  ## Setup For AdonisJs(Backend Folder)
  
-# if AdonisJs already installed in your machine to skip this step
+ if AdonisJs already installed in your machine to skip this step
 ```bash
 npm i -g @adonisjs/cli
 ```
